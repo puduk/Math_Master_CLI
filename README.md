@@ -73,7 +73,7 @@ Enter a number: 576
 Roman number is: DLXXVI
 ```
 
-### ✅ Reversing a Number
+### ✅ LCM (Least Common Multiple) Calculator
 
 ```
 -----------------------------------------------
@@ -347,5 +347,41 @@ Enter a letter we will convert it to number: f
 102
 
 ```
+### ✅ Quit
+
+```
+-----------------------------------------------
+|  1  for Calculator                          |
+|  2  for Circle Area                         |
+|  3  for Triangle Area                       |
+|  4  for Square Area                         |
+|  5  for Rectangle Area                      |
+|  6  for Number Comparison                   |
+|  7  for Number Guessing Game                |
+|  8  for Square Root                         |
+|  9  for Exponentiation                      |
+|  10 for Factorial Calculation               |
+|  11 for Dice Roller                         |
+|  12 for Printing Odd Numbers                |
+|  13 for Printing Even Numbers               |
+|  14 for Prime Number Check                  |
+|  15 for GCD (Greatest Common Divisor)       |
+|  16 for LCM (Least Common Multiple)         |
+|  17 for Rock-Paper-Scissors Game            |
+|  18 for Palindrome Check                    |
+|  19 for Reversing a Number                  |
+|  20 for Digit Count                         |
+|  21 for Printing Binary Representation      |
+|  22 for Printing ASCII Value of a Character |
+|  23 for Showing the Divisors of a Number    |
+|  24 for Perfect Number Check                |
+|  25 for Roman Numeral Conversion            |
+|  26 for Quit                                |
+-----------------------------------------------
+Enter your choice: 26
+Quiting...
+
+```
+
 
 
