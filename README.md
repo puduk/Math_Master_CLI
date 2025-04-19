@@ -31,12 +31,12 @@
 
 ##📌 Project Stats
 
--🔧 26 fully working features
--⏱️ Developed in under 5 hours
--✅ Passed manual testing — No known bugs
--🟢 Organized, clean, modular design
+- **🔧 26 fully working features**
+- **⏱️ Developed in under 5 hours**
+- **✅ Passed manual testing — No known bugs**
+- **🟢 Organized, clean, modular design**
 
-## 🧪 Sample Outputs
+## 🧪 **Sample Outputs**
 
 ### ✅ Roman Numeral Conversion
 ```
