@@ -73,7 +73,7 @@ Enter a number: 576
 Roman number is: DLXXVI
 ```
 
-### ✅ LCM (Least Common Multiple) Calculator
+### ✅ Binary Converter
 
 ```
 -----------------------------------------------
@@ -109,7 +109,7 @@ Enter a number: 13
 The number is: 13
 Binary: 1101
 ```
-### ✅ LCM Calculation
+### ✅ LCM (Least Common Multiple) Calculator
 
 ```
 -----------------------------------------------
