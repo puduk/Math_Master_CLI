@@ -6,26 +6,26 @@
 
 ## 🚀 Features
 
-- ✅ Basic Calculator (Addition, Subtraction, Multiplication, Division)
-- ✅ Geometry Area Calculators: Circle, Square, Rectangle, Triangle
-- ✅ Number Comparison
-- ✅ Number Guessing Game
-- ✅ Square Root & Exponentiation
-- ✅ Factorial Calculator
-- ✅ Dice Roller
-- ✅ Print Odd / Even Numbers
-- ✅ Prime Number Checker
+- ✅ **Basic Calculator (Addition, Subtraction, Multiplication, Division)**
+- ✅ **Geometry Area Calculators: Circle, Square, Rectangle, Triangle**
+- ✅ **Number Comparison**
+- ✅ **Number Guessing Game**
+- ✅ **Square Root & Exponentiation**
+- ✅ **Factorial Calculator**
+- ✅ **Dice Roller**
+- ✅ **Print Odd / Even Numbers**
+- ✅ **Prime Number Checker**
 - ✅ **GCD (Greatest Common Divisor)**
 - ✅ **LCM (Least Common Multiple)**
 - ✅ **Binary Converter**
-- ✅ **ASCII Character Value Printer
+- ✅ **ASCII Character Value Printer**
 - ✅ **Reverse a Number**
 - ✅ **Palindrome Checker**
 - ✅ **Roman Numeral Converter**
 - ✅ **Perfect Number Checker**
 - ✅ **List Divisors of a Number (Divider Shower)**
 - ✅ **Digit Count Checker**
-- ✅ Rock-Paper-Scissors Mini-Game 🎮
+- ✅ **Rock-Paper-Scissors Mini-Game 🎮**
 
 ---
 
