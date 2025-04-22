@@ -382,6 +382,9 @@ Enter your choice: 26
 Quiting...
 
 ```
+## 🪪 License
+
+This project is licensed under the [MIT License](https://github.com/puduk/Math_Master_CLI/blob/main/LICENSE) © 2025 [puduk](https://github.com/puduk)
 
 
 
